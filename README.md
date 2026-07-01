@@ -31,7 +31,7 @@ Este projeto tem como objetivo criar uma aplicação básica para uma oficina me
 ## tecnologias utilizadas
 - MySQL
 - figma -https://www.figma.com/design/ogQndrBLKvfaDIAGddxLX6/Sem-t%C3%ADtulo?node-id=48-10&t=D2mwCcTYurRnbsQD-0
-- trelo -https://trello.com/b/to144eRv/projeto
+- trello -https://trello.com/b/to144eRv/projeto
 
 ## Objetivo
 O objetivo do sistema é simular um e-commerce simples para oficina mecânica, com foco no registro de compras e na organização do processo de finalização do pedido.
