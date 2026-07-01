@@ -42,5 +42,3 @@ O objetivo do sistema é simular um e-commerce simples para oficina mecânica, c
 - A compra só é registrada após a confirmação final.
 - O sistema deve seguir uma sequência de telas definida.
 
-## Observações
-> Este projeto está em desenvolvimento e o escopo pode ser ajustado conforme a evolução do trabalho.
